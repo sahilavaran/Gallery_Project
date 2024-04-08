@@ -21,3 +21,4 @@ function createThumbnails() {
   });
 }
 createThumbnails();
+createThumbnails();
