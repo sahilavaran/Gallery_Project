@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+#thumbnail-container {
+  display: flex;
+  justify-content: center;
+}
+#container {
+  display: flex;
+}
+
+#container img {
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#display {
+  margin-top: 20px;
+}
+
+#display img {
+  max-width: 100%;
+}
